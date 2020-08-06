@@ -3,9 +3,6 @@ package com.db.ibatx.core.annotation;
 
 /**
  * 表字段命名规则
- *
- * @author lgt
- * @date 2019/4/30 : 10:54 AM
  */
 public enum NameStyle {
 

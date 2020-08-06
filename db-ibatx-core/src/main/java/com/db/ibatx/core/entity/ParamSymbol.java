@@ -3,9 +3,6 @@ package com.db.ibatx.core.entity;
 
 /**
  * 参数符号
- *
- * @author lgt
- * @date 2019/5/10 : 6:02 PM
  */
 public enum ParamSymbol {
     /**

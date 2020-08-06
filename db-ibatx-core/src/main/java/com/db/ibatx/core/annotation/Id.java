@@ -8,9 +8,6 @@ import java.lang.annotation.Target;
 /**
  * 主键注解
  * 主键默认不能新增，不能修改
- *
- * @author lgt
- * @date 2019/5/24 : 5:50 PM
  */
 @Target({ElementType.FIELD})
 @Retention(RetentionPolicy.RUNTIME)

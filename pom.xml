@@ -14,8 +14,15 @@
     <packaging>pom</packaging>
     <description>数据库增强工具</description>
 
+    <modules>
+        <module>db-ibatx-base</module>
+        <module>db-ibatx-core</module>
+        <module>db-ibatx-generator</module>
+        <module>db-ibatx-spring</module>
+    </modules>
+
     <properties>
-        <ibatx.project.version>dev</ibatx.project.version>
+        <ibatx.project.version>1.0.0</ibatx.project.version>
         <jdk.version>1.8</jdk.version>
         <mybatis.version>3.4.6</mybatis.version>
         <mysql.connect.version>8.0.13</mysql.connect.version>
@@ -34,19 +41,19 @@
     <dependencyManagement>
         <dependencies>
             <dependency>
-                <groupId>com.panda</groupId>
-                <artifactId>panda-ibatx-core</artifactId>
+                <groupId>com.demo</groupId>
+                <artifactId>db-ibatx-core</artifactId>
                 <version>${ibatx.project.version}</version>
             </dependency>
 
             <dependency>
-                <groupId>com.panda</groupId>
-                <artifactId>panda-ibatx-base</artifactId>
+                <groupId>com.demo</groupId>
+                <artifactId>db-ibatx-base</artifactId>
                 <version>${ibatx.project.version}</version>
             </dependency>
             <dependency>
-                <groupId>com.panda</groupId>
-                <artifactId>panda-ibatx-spring</artifactId>
+                <groupId>com.demo</groupId>
+                <artifactId>db-ibatx-spring</artifactId>
                 <version>${ibatx.project.version}</version>
             </dependency>
             <dependency>

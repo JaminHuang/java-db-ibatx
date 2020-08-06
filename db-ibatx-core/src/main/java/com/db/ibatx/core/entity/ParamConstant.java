@@ -2,9 +2,6 @@ package com.db.ibatx.core.entity;
 
 /**
  * 参数名字常量
- *
- * @author lgt
- * @date 2019/5/13 : 5:06 PM
  */
 public class ParamConstant {
 

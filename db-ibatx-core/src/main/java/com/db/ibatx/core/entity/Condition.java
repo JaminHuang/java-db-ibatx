@@ -7,9 +7,6 @@ import java.util.*;
 
 /**
  * 查询条件
- *
- * @author lgt
- * @date 2019/5/16 : 1:39 PM
  */
 public class Condition<T> implements Serializable {
 

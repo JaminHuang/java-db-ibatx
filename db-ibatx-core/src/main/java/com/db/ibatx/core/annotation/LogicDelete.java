@@ -9,9 +9,6 @@ import java.lang.annotation.Target;
 
 /**
  * 逻辑删除
- *
- * @author lgt
- * @date 2019/4/28 : 9:39 PM
  */
 @Target({ElementType.FIELD})
 @Retention(RetentionPolicy.RUNTIME)

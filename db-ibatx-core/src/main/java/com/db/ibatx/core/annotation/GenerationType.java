@@ -2,7 +2,6 @@ package com.db.ibatx.core.annotation;
 
 /**
  * 主键策略的类型
- * 参考 Java Persistence 1.0
  */
 public enum GenerationType {
 

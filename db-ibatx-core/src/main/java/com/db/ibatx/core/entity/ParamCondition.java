@@ -5,9 +5,6 @@ import java.util.Objects;
 
 /**
  * 查询参数
- *
- * @author lgt
- * @date 2019/5/2 : 11:04 AM
  */
 public class ParamCondition implements Serializable {
 

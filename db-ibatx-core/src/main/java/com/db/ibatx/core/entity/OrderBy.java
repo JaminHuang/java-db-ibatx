@@ -4,9 +4,6 @@ import java.io.Serializable;
 
 /**
  * 排序字段
- *
- * @author lgt
- * @date 2019/5/16 : 3:10 PM
  */
 public class OrderBy implements Serializable {
 
