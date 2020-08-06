@@ -23,9 +23,6 @@ import java.util.Map;
 
 /**
  * 实体对象映射类
- *
- * @author lgt
- * @date 2019/5/3 : 10:23 AM
  */
 public class EntityBeanRowMapper<T> implements RowMapper<T> {
 

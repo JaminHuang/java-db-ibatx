@@ -16,9 +16,6 @@ import org.springframework.util.Assert;
 
 /**
  * 简单的DAO
- *
- * @author lgt
- * @date 2019/5/2 : 6:51 PM
  */
 public class GeneralDaoImpl implements BasicDao {
 

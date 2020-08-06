@@ -14,9 +14,6 @@ import java.util.List;
 
 /**
  * 拦截器配置
- *
- * @author lgt
- * @date 2019/11/22 : 9:59 AM
  */
 @Configuration
 public class InterceptorConfiguration implements ApplicationContextAware, InitializingBean {

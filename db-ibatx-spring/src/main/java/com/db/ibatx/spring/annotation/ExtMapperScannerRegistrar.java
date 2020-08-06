@@ -20,9 +20,6 @@ import java.util.List;
 
 /**
  * 自定义可扩展的Mapper扫描注册
- *
- * @author lgt
- * @date 2019/5/2 : 2:25 PM
  */
 public class ExtMapperScannerRegistrar implements ImportBeanDefinitionRegistrar, ResourceLoaderAware {
 

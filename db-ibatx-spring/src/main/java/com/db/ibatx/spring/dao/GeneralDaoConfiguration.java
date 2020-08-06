@@ -10,9 +10,6 @@ import javax.sql.DataSource;
 
 /**
  * 通用dao的配置
- *
- * @author lgt
- * @date 2019/5/2 : 4:10 PM
  */
 @Configuration
 public class GeneralDaoConfiguration {

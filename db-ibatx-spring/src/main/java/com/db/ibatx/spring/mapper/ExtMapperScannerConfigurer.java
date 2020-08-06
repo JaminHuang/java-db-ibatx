@@ -35,9 +35,6 @@ import static org.springframework.util.Assert.notNull;
  * postProcessBeanDefinitionRegistry 方法中添加 ClassPathMapperScanner的MapperBeanFactory类型
  * scanner.setMapperFactoryBean(new ExtMapperFactoryBean());
  * <p/>
- *
- * @author lgt
- * @date 2019/5/2 : 1:36 PM
  */
 public class ExtMapperScannerConfigurer implements BeanDefinitionRegistryPostProcessor, InitializingBean, ApplicationContextAware, BeanNameAware {
 

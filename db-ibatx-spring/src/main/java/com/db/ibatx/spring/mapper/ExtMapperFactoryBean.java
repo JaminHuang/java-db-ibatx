@@ -6,9 +6,6 @@ import org.mybatis.spring.mapper.MapperFactoryBean;
 
 /**
  * 继承spring mybatis 原生的MapperFactoryBean 对 spring 的生命周期不做改动，制作扩张
- *
- * @author lgt
- * @date 2019/5/2 : 3:49 PM
  */
 public class ExtMapperFactoryBean<T> extends MapperFactoryBean<T> {
 
