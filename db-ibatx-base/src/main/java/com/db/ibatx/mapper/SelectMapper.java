@@ -12,9 +12,6 @@ import java.util.List;
 
 /**
  * 基础查询模块
- *
- * @author lgt
- * @date 2019/5/2 : 3:10 PM
  */
 public interface SelectMapper<T> extends BaseMapper<T> {
 

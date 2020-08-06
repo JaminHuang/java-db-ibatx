@@ -7,9 +7,6 @@ import org.apache.ibatis.binding.MapperMethod;
 
 /**
  * 根据实体类查询
- *
- * @author lgt
- * @date 2019/5/2 : 3:46 PM
  */
 public class SelectByEntityProvider extends BaseProvider {
     @Override

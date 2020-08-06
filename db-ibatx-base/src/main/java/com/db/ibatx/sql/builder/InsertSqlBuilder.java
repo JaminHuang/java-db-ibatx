@@ -12,9 +12,6 @@ import java.util.List;
 
 /**
  * 新增sql创建
- *
- * @author lgt
- * @date 2019/5/21 : 6:01 PM
  */
 public class InsertSqlBuilder extends SqlBuilder {
 

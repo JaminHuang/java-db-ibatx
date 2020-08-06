@@ -9,11 +9,6 @@ import java.util.Map;
 import java.util.Objects;
 import java.util.concurrent.ConcurrentHashMap;
 
-/**
- * mapper
- * @author lgt
- * @date 2019/5/2 : 2:34 PM
- */
 public class MapperHelper {
 
     private static final Map<Class<?>, EntityInfo> MAPPER_ENTITY_INFO = new ConcurrentHashMap<>();

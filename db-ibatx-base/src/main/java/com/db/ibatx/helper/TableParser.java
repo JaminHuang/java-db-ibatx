@@ -11,9 +11,6 @@ import java.util.*;
 
 /**
  * 实体类解析成数据库表
- *
- * @author lgt
- * @date 2019/4/30 : 11:55 AM
  */
 public class TableParser {
 

@@ -10,9 +10,6 @@ import java.util.Objects;
 
 /**
  * 删除sql构造器
- *
- * @author lgt
- * @date 2019/5/22 : 10:22 AM
  */
 public class DeleteSqlBuilder extends SqlBuilder {
 

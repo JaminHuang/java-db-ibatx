@@ -17,9 +17,6 @@ import java.util.*;
 
 /**
  * 原生拦截器执行
- *
- * @author lgt
- * @date 2019/11/22 : 9:59 AM
  */
 @Intercepts({
         @Signature(

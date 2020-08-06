@@ -4,9 +4,6 @@ import com.db.ibatx.sql.builder.SqlBuilder;
 
 /**
  * 单个插入
- *
- * @author lgt
- * @date 2019/5/21 : 8:37 PM
  */
 public class InsertOneSelectiveProvider extends BaseProvider {
 

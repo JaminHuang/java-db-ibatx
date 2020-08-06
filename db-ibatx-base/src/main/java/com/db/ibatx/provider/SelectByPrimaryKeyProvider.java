@@ -4,9 +4,6 @@ import com.db.ibatx.sql.builder.SqlBuilder;
 
 /**
  * 根据主键查询
- *
- * @author lgt
- * @date 2019/5/2 : 10:37 AM
  */
 public class SelectByPrimaryKeyProvider extends BaseProvider {
 

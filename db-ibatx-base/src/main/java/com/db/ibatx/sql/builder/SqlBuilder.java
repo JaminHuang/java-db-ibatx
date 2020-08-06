@@ -3,10 +3,6 @@ package com.db.ibatx.sql.builder;
 import com.db.ibatx.meta.EntityInfo;
 import com.db.ibatx.sql.builder.condition.WhereSqlBuilder;
 
-/**
- * @author lgt
- * @date 2019/5/10 : 3:17 PM
- */
 public abstract class SqlBuilder extends CommonBuilder{
 
     private WhereSqlBuilder whereSqlBuilder;

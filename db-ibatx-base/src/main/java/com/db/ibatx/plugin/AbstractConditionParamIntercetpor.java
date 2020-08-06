@@ -8,9 +8,6 @@ import java.util.Objects;
 
 /**
  * 对condition参数的拦截器
- *
- * @author lgt
- * @date 2019/11/26 : 8:01 PM
  */
 public abstract class AbstractConditionParamIntercetpor implements InterceptorAdapter {
 

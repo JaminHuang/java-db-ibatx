@@ -14,9 +14,6 @@ import java.util.Set;
 
 /**
  * select 查询创建
- *
- * @author lgt
- * @date 2019/5/10 : 2:24 PM
  */
 public class SelectSqlBuilder extends SqlBuilder {
 

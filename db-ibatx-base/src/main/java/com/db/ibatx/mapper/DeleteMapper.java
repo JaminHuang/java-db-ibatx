@@ -8,9 +8,6 @@ import org.apache.ibatis.annotations.Param;
 
 /**
  * 删除mapper
- *
- * @author lgt
- * @date 2019/5/22 : 10:04 AM
  */
 public interface DeleteMapper<T> extends BaseMapper<T> {
 

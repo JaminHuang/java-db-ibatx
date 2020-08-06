@@ -5,9 +5,6 @@ import com.db.ibatx.sql.builder.SqlBuilder;
 
 /**
  * 根据
- *
- * @author lgt
- * @date 2019/5/20 : 9:25 AM
  */
 public class UpdateByPrimaryKeyProvider extends BaseProvider {
 

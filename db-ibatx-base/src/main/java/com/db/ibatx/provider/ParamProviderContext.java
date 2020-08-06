@@ -4,10 +4,6 @@ import com.db.ibatx.meta.EntityInfo;
 
 import java.lang.reflect.Method;
 
-/**
- * @author lgt
- * @date 2019/4/29 : 7:28 PM
- */
 public class ParamProviderContext {
 
     private Method mapperMethod;

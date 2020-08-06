@@ -9,9 +9,6 @@ import java.util.Collections;
 
 /**
  * 分页查询
- *
- * @author lgt
- * @date 2019/5/23 : 2:40 PM
  */
 public interface PageSelectMapper<T> extends SelectMapper<T> {
 

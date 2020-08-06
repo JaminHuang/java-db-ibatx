@@ -6,9 +6,6 @@ import java.util.Map;
 
 /**
  * 拦截器适配器
- *
- * @author lgt
- * @date 2019/11/22 : 9:57 AM
  */
 public interface InterceptorAdapter {
 

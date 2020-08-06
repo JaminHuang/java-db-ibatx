@@ -8,9 +8,6 @@ import java.util.List;
 
 /**
  * 批量插入
- *
- * @author lgt
- * @date 2019/5/21 : 8:37 PM
  */
 public class InsertBatchProvider extends BaseProvider {
 

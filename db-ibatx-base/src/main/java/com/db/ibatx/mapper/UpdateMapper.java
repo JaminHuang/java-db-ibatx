@@ -8,9 +8,6 @@ import org.apache.ibatis.annotations.Param;
 
 /**
  * 更新
- *
- * @author lgt
- * @date 2019/6/3 : 3:26 PM
  */
 public interface UpdateMapper<T> extends BaseMapper<T> {
 //    /**

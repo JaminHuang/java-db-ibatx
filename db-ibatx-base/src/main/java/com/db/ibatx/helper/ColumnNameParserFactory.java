@@ -6,9 +6,6 @@ import java.util.Objects;
 
 /**
  * 列名解析器
- *
- * @author lgt
- * @date 2019/4/30 : 11:08 AM
  */
 public class ColumnNameParserFactory {
 

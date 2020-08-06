@@ -6,9 +6,6 @@ import org.apache.ibatis.binding.MapperMethod;
 
 /**
  * sql 提供基类
- *
- * @author lgt
- * @date 2019/4/29 : 6:57 PM
  */
 public abstract class BaseProvider {
 
