@@ -10,13 +10,13 @@
         <property name="javaFileEncoding" value="UTF-8"/>
 
         <!-- 注释用-->
-        <property name="author" value="lgt"/>
+        <property name="author" value="hzm"/>
 
         <!--<plugin type="org.mybatis.generator.plugins.SerializablePlugin"/>-->
         <!--<plugin type="com.pd.plugins.LombokPlugin">-->
         <!--</plugin>-->
 
-        <plugin type="com.panda.ibatx.generator.plugins.ExtBatisPlugin">
+        <plugin type="com.db.ibatx.generator.plugins.ExtBatisPlugin">
 
         </plugin>
 
