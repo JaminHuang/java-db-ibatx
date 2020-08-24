@@ -1,6 +1,6 @@
 package ${serviceImplPackage};
 
-import com.panda.ibatx.core.entity.Condition;
+import com.db.ibatx.core.entity.Condition;
 import org.springframework.transaction.annotation.Transactional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
@@ -8,13 +8,13 @@ import org.springframework.stereotype.Service;
 
 import java.util.Collections;
 <#if pageable>
-import com.panda.ibatx.core.entity.LimitCondition;
-import com.panda.sdk.page.Page;
+import com.db.ibatx.core.entity.LimitCondition;
+import com.db.sdk.page.Page;
 </#if>
-import com.panda.sdk.thread.ReqThreadLocal;
-import com.panda.sdk.util.StringUtils;
-import com.panda.sdk.util.CollectionUtils;
-import com.panda.sdk.util.Assert;
+import com.db.sdk.thread.ReqThreadLocal;
+import com.db.sdk.util.StringUtils;
+import com.db.sdk.util.CollectionUtils;
+import com.db.sdk.util.Assert;
 import java.util.List;
 import java.util.Map;
 import java.util.Objects;
